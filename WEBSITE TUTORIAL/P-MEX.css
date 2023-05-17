@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+ 
+img{
+    margin-top: 10%;
+    width: 20vw;
+    height: 40vh;
+}
+
+.one{
+    border: 5vw solid grey;
+
+}
+
+h1{  
+    
+    box-shadow: 0px 2px 2px 5px;
+    text-align: center;
+    margin-top: 2%;
+    color: purple;
+    font-size: xx-large;
+    padding: 5PX;
+}
+ 
+
+h4{
+    margin-top: 25px;
+}
+
+.aud1{
+    margin-left: 40%;
+
+
+}
+
+
+audio{
+
+    
+    width: 20vw;
+    border: 1px solid purple;
+    border-radius: 20%;
+}

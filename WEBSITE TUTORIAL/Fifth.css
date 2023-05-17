@@ -1,0 +1,191 @@
+
+ /* CSS OF GOOD LIFE (lol) */
+  
+
+.image1{
+    
+    background-image: url(./ASSETS/IMAGE/task5\ jpg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    word-spacing: 2x;
+    background-attachment: scroll;
+    background-color: rgba(10, 9, 9, 0.986);
+    background-blend-mode: overlay;
+    opacity: 100%;
+}
+
+li{
+    font-size: medium;
+}
+
+li:hover{
+    border-bottom: 3px solid blue;
+    
+}
+
+
+ul{ color: white;
+    list-style-type:none;
+    display: flex;
+    margin-top: 10px;
+    
+    justify-content: flex-end;
+}
+
+.donate{
+    color: white;
+    text-align: right;
+    margin-top: 10px; 
+    background-color:rgba(220, 97, 16, 0.986);
+    padding: 20px;
+    border-radius: 20px;
+    width: 70px;
+    margin-right: 20px;
+    padding-right: 20px;
+}
+
+.food :hover{
+
+    border-bottom: 3px solid blue;
+}
+
+.food{
+    color: white;
+
+    margin-right: 250px;
+}   
+
+.mission{
+    margin-top: 25px;
+    text-align: center;
+
+}
+
+
+.border1{
+    color: rgb(120, 35, 54);
+
+}
+
+.history, .img2 {
+    margin-top: 60px;
+    width: 500px;
+    margin-left: 150px;
+
+}
+
+.img4 {
+    width: 1320px;
+    height: 500px;
+    color: black;
+
+}
+
+.help{
+    margin-left: 0px
+
+}
+
+.lastimg{
+    justify-content: center;
+    width: 984px;
+    height: 500px;
+    background-image: url(./ASSETS/IMAGE/task5\ lastIMG.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgba(14, 15, 15, 0.986);
+    background-blend-mode: overlay;
+   
+    
+
+}
+
+.fruits{
+ background-image: url(./ASSETS/IMAGE/task5\ img4.avif);
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 500px;
+ background-color:rgba(22, 18, 18, 0.986);
+ background-blend-mode: overlay;
+ 
+
+}
+
+.write{
+   text-align: center;
+   color: white;
+   padding-top: 220px;
+
+
+}
+
+.more{
+    color: white;
+    text-align: center;
+    margin-top: 10px; 
+    background-color:rgba(220, 97, 16, 0.986);
+    padding: 10px;
+    border-radius: 20px;
+    width: 90px;
+    padding-right: 40px;
+    margin-left: 700px;
+    
+} 
+
+
+.container1 :hover{
+    background-color:purple;
+    font-weight: bolder;
+    color: white;
+    box-shadow:white 0px 0px 3px 5px;
+    
+    
+}
+.donae :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+
+}
+
+.dona :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+}
+
+.assist :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+}
+
+.assis :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+}
+
+.volume :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+}
+.volunteer :hover{
+    color: purple;
+    background-color: powderblue;
+    box-shadow: black 0px 0px 3px 5px;
+}
+
+
+.footer{
+background-color: rgb(5, 61, 117);    
+display: flex;
+color: white;
+margin-right: 7px;
+box-shadow:white 0px 0px 2px 1px;
+}
+
+
+
